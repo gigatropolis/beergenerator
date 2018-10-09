@@ -1,2 +1,2 @@
-# beergenerator
+# beer generator
 Automatically generate beer recipe based on user requirements.
